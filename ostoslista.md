@@ -4,3 +4,4 @@
 - Tomaattikastiketta
 - Maitoa
 - Juustoa
+-Salaattia
