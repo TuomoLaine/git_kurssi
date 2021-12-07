@@ -3,3 +3,4 @@
 - Kinkkua
 - Tomaattikastiketta
 - Maitoa
+- Juustoa
